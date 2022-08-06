@@ -1,0 +1,29 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+#card {
+  aspect-ratio: 2.5/3.5;
+  height: 92vmin;
+  border: 1px solid black;
+  font-family: "Public Sans";
+  margin: 0%;
+  padding: 2vmin;
+}
+
+#top-banner {
+  height: 4%;
+  width: 100%;
+  margin-bottom: 2vmin;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  border: 1px solid black;
+  font-size: 1em;
+  text-align: center;
+}
